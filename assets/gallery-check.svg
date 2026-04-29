@@ -1,0 +1,11 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="620" fill="#EDF9F5"/>
+  <rect x="90" y="70" width="720" height="480" rx="28" fill="white"/>
+  <rect x="145" y="150" width="610" height="62" rx="16" fill="#D6F0E7"/>
+  <rect x="145" y="242" width="500" height="40" rx="12" fill="#E7F8F1"/>
+  <rect x="145" y="302" width="440" height="40" rx="12" fill="#E7F8F1"/>
+  <rect x="145" y="362" width="520" height="40" rx="12" fill="#E7F8F1"/>
+  <circle cx="676" cy="382" r="58" fill="#16A26A"/>
+  <path d="M649 381L669 401L705 365" stroke="white" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="145" y="125" fill="#165D47" font-family="Inter, Arial" font-size="32" font-weight="700">Quality Check</text>
+</svg>

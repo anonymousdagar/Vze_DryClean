@@ -1,0 +1,8 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="620" fill="#FFF5E9"/>
+  <rect x="85" y="70" width="730" height="480" rx="30" fill="white"/>
+  <rect x="140" y="165" width="620" height="82" rx="18" fill="#FFE3BD"/>
+  <rect x="140" y="278" width="620" height="82" rx="18" fill="#FFD6A2"/>
+  <rect x="140" y="391" width="620" height="82" rx="18" fill="#FFC987"/>
+  <text x="140" y="135" fill="#8A4A00" font-family="Inter, Arial" font-size="33" font-weight="700">Fresh Folded Clothes</text>
+</svg>
